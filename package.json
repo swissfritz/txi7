@@ -30,6 +30,7 @@
     "@ionic/cordova-builders": "^7.0.0",
     "cordova-plugin-email-composer": "^0.10.1",
     "cordova-plugin-webview": "^0.0.1",
+    "iod": "0.0.99",
     "ionicons": "^6.0.3",
     "rxjs": "^7.5.0",
     "tslib": "^2.2.0",
